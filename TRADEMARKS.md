@@ -1,14 +1,16 @@
 # PathScriber™ Trademark Policy
 
 "PathScriber" and the PathScriber logo (the "Marks") are trademarks of
-Bijun Sai Kannadath. The code is licensed under Apache-2.0, but the Marks are
-**not** licensed under it (see Section 6 of the [LICENSE](LICENSE) and the
-[NOTICE](NOTICE) file).
+Bijun Sai Kannadath. The code is licensed under the GNU GPL v3 or later, but
+the Marks are **not** licensed under it. The additional term under GPLv3
+Section 7(e) in the [NOTICE](NOTICE) file declines to grant any trademark
+rights.
 
 ## Allowed
 
 - **Forks and modifications.** You may fork, modify, and redistribute the code
-  under Apache-2.0.
+  under GPL-3.0-or-later, keeping the attribution required by the
+  [NOTICE](NOTICE) file.
 - **Nominative use.** You may refer to the project by name to describe the
   origin or compatibility of your work accurately. Examples: "based on
   PathScriber", "a fork of PathScriber", "compatible with PathScriber".

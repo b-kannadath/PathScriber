@@ -33,12 +33,19 @@ Requires Python 3.10 or later.
 
 ## License
 
-Copyright 2026 Bijun Sai Kannadath.
+Copyright (C) 2026 Bijun Sai Kannadath.
 
-PathScriber is licensed under the [Apache License 2.0](LICENSE). If you
-redistribute PathScriber or a derivative work, include the [NOTICE](NOTICE)
-file as Section 4(d) of the license requires. Please also credit PathScriber
-and its author in derivative works and publications.
+PathScriber is free software, licensed under the
+[GNU General Public License v3.0 or later](LICENSE) (`GPL-3.0-or-later`). If
+you distribute modified versions, they must also be released under the GPL.
+
+The [NOTICE](NOTICE) file adds two terms allowed by GPLv3 Section 7:
+- **7(b) Attribution:** modified versions must keep the PathScriber author
+  attribution and the NOTICE file.
+- **7(e) Trademarks:** the license grants no rights to the PathScriber name or
+  logo.
+
+If you use PathScriber in research, please also cite it (see below).
 
 ## How to cite
 
@@ -65,6 +72,6 @@ url = {https://github.com/b-kannadath/pathscriber}
 ## Trademark
 
 "PathScriber" and the PathScriber logo are trademarks of Bijun Sai Kannadath
-and are not licensed under Apache-2.0. You may fork the project, but forks must
+and are not licensed under the GPL (GPLv3 Section 7(e); see [NOTICE](NOTICE)). You may fork the project, but forks must
 use a different name. Nominative use such as "based on PathScriber" is fine,
 as long as it does not imply endorsement. See [TRADEMARKS.md](TRADEMARKS.md).

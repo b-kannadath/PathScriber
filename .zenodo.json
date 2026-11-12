@@ -3,7 +3,7 @@
   "description": "Write your path reports fast and smooth.",
   "upload_type": "software",
   "version": "0.1.0",
-  "license": "Apache-2.0",
+  "license": "GPL-3.0-or-later",
   "creators": [
     {
       "name": "Kannadath, Bijun Sai",

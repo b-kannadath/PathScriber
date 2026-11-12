@@ -1,35 +1,48 @@
 PathScriber™
 Write your path reports fast and smooth.
 
-Copyright 2026 Bijun Sai Kannadath
+Copyright (C) 2026 Bijun Sai Kannadath
 
-This product is licensed under the Apache License, Version 2.0 (the
-"License"); you may not use this product except in compliance with the
-License. A copy of the License is provided in the LICENSE file and at
-http://www.apache.org/licenses/LICENSE-2.0
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any later
+version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with
+this program (see the LICENSE file). If not, see <https://www.gnu.org/licenses/>.
 
 Source: https://github.com/b-kannadath/pathscriber
 
--------------------------------------------------------------------------------
-Attribution
--------------------------------------------------------------------------------
+===============================================================================
+ADDITIONAL TERMS UNDER GNU GPL VERSION 3, SECTION 7
+===============================================================================
 
-Under Section 4(d) of the License, any redistribution of this work or of a
-Derivative Work must include a readable copy of this NOTICE file.
+The following additional terms apply to this program and all works based on
+it, as permitted by Section 7 of the GNU General Public License version 3.
 
-In addition, the author requests that derivative works, products, and
-publications (including papers, posters, theses, and presentations) that use or
-build on this software credit "PathScriber" and its author,
-Bijun Sai Kannadath, MBBS, MS (ORCID 0000-0002-0177-6834). Use the citation in
-CITATION.cff.
+1. Attribution (Section 7(b)).
+   You must preserve the following author attribution, and this NOTICE file,
+   in all copies and modified versions of the program's source code:
 
--------------------------------------------------------------------------------
-Trademarks
--------------------------------------------------------------------------------
+       "Based on PathScriber by Bijun Sai Kannadath
+        (https://github.com/b-kannadath/pathscriber)."
 
-"PathScriber" and the PathScriber logo are trademarks of Bijun Sai Kannadath.
-As stated in Section 6 of the License, the License does not grant permission to
-use the trade names, trademarks, service marks, or product names of the
-Licensor, except as required for reasonable and customary use in describing the
-origin of the Work and reproducing the content of this NOTICE file. See
-TRADEMARKS.md for the trademark policy.
+   If a covered work displays Appropriate Legal Notices (as defined in
+   Section 0 of the License), they must include the same attribution.
+
+2. Trademarks (Section 7(e)).
+   This License does not grant any rights under trademark law to use the
+   "PathScriber" name or the PathScriber logo, which are trademarks of
+   Bijun Sai Kannadath. Modified versions must not use the PathScriber name or
+   logo except to accurately state their origin as above. See TRADEMARKS.md.
+
+===============================================================================
+CITATION REQUEST (not a license condition)
+===============================================================================
+
+If you use PathScriber in research, please cite it in publications (papers,
+posters, theses, and presentations) using the metadata in CITATION.cff.
