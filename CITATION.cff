@@ -12,6 +12,9 @@ version: "0.1.0"
 license: GPL-3.0-or-later
 repository-code: "https://github.com/b-kannadath/pathscriber"
 url: "https://pathscriber.com"
+# After the first GitHub release, uncomment and set the Zenodo *concept* DOI
+# (the "all versions" DOI shown on the Zenodo record).
+# doi: "<ZENODO CONCEPT DOI>"
 keywords:
   - pathology
   - surgical pathology
