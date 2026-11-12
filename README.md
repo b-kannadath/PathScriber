@@ -6,7 +6,7 @@
 
 [![DOI](https://zenodo.org/badge/1455560604.svg)](https://zenodo.org/badge/latest-doi/1455560604)
 
-<PROJECT DESCRIPTION: one paragraph on what PathScriber does, who it is for, and how it fits a pathology reporting workflow.>
+PathScriber helps you write detailed pathology reports in line with Guidelines. It makes life easier and gives you time to play with your kids[Citation Needed].
 
 > [!WARNING]
 > **Medical disclaimer.** PathScriber is a research and documentation aid only.
