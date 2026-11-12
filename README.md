@@ -2,6 +2,8 @@
 
 **Write your path reports fast and smooth.**
 
+🌐 [pathscriber.com](https://pathscriber.com)
+
 <!-- Add the Zenodo DOI badge here after the first GitHub release. -->
 
 <PROJECT DESCRIPTION: one paragraph on what PathScriber does, who it is for, and how it fits a pathology reporting workflow.>

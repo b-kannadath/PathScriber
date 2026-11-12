@@ -11,6 +11,7 @@ authors:
 version: "0.1.0"
 license: GPL-3.0-or-later
 repository-code: "https://github.com/b-kannadath/pathscriber"
+url: "https://pathscriber.com"
 keywords:
   - pathology
   - surgical pathology

@@ -22,6 +22,11 @@
       "identifier": "https://github.com/b-kannadath/pathscriber",
       "relation": "isSupplementTo",
       "scheme": "url"
+    },
+    {
+      "identifier": "https://pathscriber.com",
+      "relation": "isSupplementTo",
+      "scheme": "url"
     }
   ]
 }

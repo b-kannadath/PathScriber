@@ -32,6 +32,6 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/b-kannadath/pathscriber"
+Homepage = "https://pathscriber.com"
 Repository = "https://github.com/b-kannadath/pathscriber"
 Issues = "https://github.com/b-kannadath/pathscriber/issues"
