@@ -1,0 +1,70 @@
+# PathScriber™
+
+**Write your path reports fast and smooth.**
+
+<!-- Add the Zenodo DOI badge here after the first GitHub release. -->
+
+<PROJECT DESCRIPTION: one paragraph on what PathScriber does, who it is for, and how it fits a pathology reporting workflow.>
+
+> [!WARNING]
+> **Medical disclaimer.** PathScriber is a research and documentation aid only.
+> It does not replace the professional judgment of a qualified pathologist.
+> It is **not** FDA-cleared or approved, and it is **not** intended for clinical
+> diagnosis or for patient-care decisions. A qualified professional must
+> review and verify all output before use.
+
+## Install
+
+PathScriber has not been released yet. Once it is published on PyPI:
+
+```bash
+pip install pathscriber
+```
+
+To install from source:
+
+```bash
+git clone https://github.com/b-kannadath/pathscriber.git
+cd pathscriber
+pip install .
+```
+
+Requires Python 3.10 or later.
+
+## License
+
+Copyright 2026 Bijun Sai Kannadath.
+
+PathScriber is licensed under the [Apache License 2.0](LICENSE). If you
+redistribute PathScriber or a derivative work, include the [NOTICE](NOTICE)
+file as Section 4(d) of the license requires. Please also credit PathScriber
+and its author in derivative works and publications.
+
+## How to cite
+
+If you use PathScriber in your work, please cite it. The citation metadata is
+in [CITATION.cff](CITATION.cff); GitHub's **"Cite this repository"** button
+reads that file.
+
+**APA-style**
+
+> Kannadath B.S. PathScriber (version 0.1.0). URL: https://github.com/b-kannadath/pathscriber
+
+**BibTeX**
+
+```bibtex
+@misc{Kannadath_PathScriber,
+author = {Kannadath, Bijun Sai},
+title = {PathScriber},
+url = {https://github.com/b-kannadath/pathscriber}
+}
+```
+
+<!-- The entries above were generated with `cffconvert -f apalike` and `cffconvert -f bibtex`. Regenerate them after updating CITATION.cff (for example, once a DOI or paper is available). -->
+
+## Trademark
+
+"PathScriber" and the PathScriber logo are trademarks of Bijun Sai Kannadath
+and are not licensed under Apache-2.0. You may fork the project, but forks must
+use a different name. Nominative use such as "based on PathScriber" is fine,
+as long as it does not imply endorsement. See [TRADEMARKS.md](TRADEMARKS.md).

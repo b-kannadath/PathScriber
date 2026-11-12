@@ -1,0 +1,36 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2026 Bijun Sai Kannadath
+
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[project]
+name = "pathscriber"
+version = "0.1.0"
+description = "Write your path reports fast and smooth."
+readme = "README.md"
+license = "Apache-2.0"
+license-files = ["LICENSE", "NOTICE"]
+authors = [{ name = "Bijun Sai Kannadath" }]
+requires-python = ">=3.10"
+keywords = ["pathology", "surgical pathology", "report writing", "clinical documentation"]
+# PEP 639: no "License ::" classifier when `license` is an SPDX expression.
+classifiers = [
+    "Development Status :: 1 - Planning",
+    "Intended Audience :: Healthcare Industry",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Medical Science Apps.",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/b-kannadath/pathscriber"
+Repository = "https://github.com/b-kannadath/pathscriber"
+Issues = "https://github.com/b-kannadath/pathscriber/issues"

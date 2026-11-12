@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use PathScriber, please cite it using the metadata below."
+type: software
+title: "PathScriber"
+abstract: "Write your path reports fast and smooth."
+authors:
+  - given-names: "Bijun Sai"
+    family-names: "Kannadath"
+    affiliation: "University of Arizona College of Medicine–Phoenix"
+    orcid: "https://orcid.org/0000-0002-0177-6834"
+version: "0.1.0"
+license: Apache-2.0
+repository-code: "https://github.com/b-kannadath/pathscriber"
+keywords:
+  - pathology
+  - surgical pathology
+  - report writing
+  - clinical documentation
+
+# Uncomment and complete this section once the PathScriber paper is published.
+# preferred-citation:
+#   type: article
+#   title: "<PAPER TITLE>"
+#   authors:
+#     - given-names: "Bijun Sai"
+#       family-names: "Kannadath"
+#       orcid: "https://orcid.org/0000-0002-0177-6834"
+#   journal: "<JOURNAL>"
+#   year: <YEAR>
+#   volume: <VOLUME>
+#   issue: <ISSUE>
+#   start: <FIRST PAGE>
+#   end: <LAST PAGE>
+#   doi: "<DOI>"

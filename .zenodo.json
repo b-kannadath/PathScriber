@@ -1,0 +1,27 @@
+{
+  "title": "PathScriber",
+  "description": "Write your path reports fast and smooth.",
+  "upload_type": "software",
+  "version": "0.1.0",
+  "license": "Apache-2.0",
+  "creators": [
+    {
+      "name": "Kannadath, Bijun Sai",
+      "affiliation": "University of Arizona College of Medicine–Phoenix",
+      "orcid": "0000-0002-0177-6834"
+    }
+  ],
+  "keywords": [
+    "pathology",
+    "surgical pathology",
+    "report writing",
+    "clinical documentation"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/b-kannadath/pathscriber",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
